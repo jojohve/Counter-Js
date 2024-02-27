@@ -1,4 +1,20 @@
-let counter = 0;
+let contatore = 0;
+let buttonPiu = document.getElementById("incrementatore");
+let buttonMeno = document.getElementById("decrementatore");
+let counter = document.getElementById("output")
 
-let risultato = document.getElementById("output");
-risultato.innerHTML = (counter);
+risultato();
+
+buttonPiu.addEventListener("click", () => {
+    contatore++
+    risultato();
+});
+
+buttonMeno.addEventListener("click", () => {
+    contatore--
+    risultato();
+});
+
+function risultato() {
+    counter.innerHTML = contatore;
+}
