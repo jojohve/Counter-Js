@@ -20,4 +20,4 @@ Dopodichè ho proceduto con la creazione delle animazioni tramite l'uso di Photo
 
 Infine ci sono alcuni "easter-egg", ovvero al raggiungimento di alcune cifre del counter si ricevono messaggi personalizzati. Il funzionamento è molto semplice, il counter prende spunto dal famoso consiglio della nonna di contare le pecore ad occhi chiusi se non si riesce a dormire, e in base a questo la pecora conta le staccionate saltate al momento della pressione del bottone "+", mentre si arrabbierà se viene interrotto il conto premendo il bottone "-".
 
-?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/3e807567-5119-4d62-bef9-5aefecaff481/deploy-status)](https://app.netlify.com/sites/sage-pika-37fa90/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e807567-5119-4d62-bef9-5aefecaff481/deploy-status)](https://app.netlify.com/sites/sage-pika-37fa90/deploys)
