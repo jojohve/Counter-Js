@@ -14,7 +14,7 @@ Poi sono passato al file Js dove ho dichiarato tutti gli elementi presenti nel f
 
 2 - Animazione e styling
 
-Dopodichè ho proceduto con la creazione delle animazioni tramite l'uso di Photoshop per creare l'animazione di base, l'animazione di quando si preme il bottone "-", e di qunado si preme il bottone "+". Sono state create animazioni molto basilari di 3/4 frame per ciascuna di esse. Nel file style.css invece ci sono oltre agli stili utilizzati, anche delle classi che ho inserito per far in modo che all'apertura della pagina sia visibile solo l'animazione di base, mentre le altre due sono "nascoste" ed attivate al momento della pressione dei bottoni specifici.  
+Dopodichè ho proceduto con la creazione delle animazioni tramite l'uso di Photoshop per creare l'animazione di base, l'animazione di quando si preme il bottone "-", e di quando si preme il bottone "+". Sono state create animazioni molto basilari di 3/4 frame per ciascuna di esse. Nel file style.css invece ci sono oltre agli stili utilizzati, anche delle classi che ho inserito per far in modo che all'apertura della pagina sia visibile solo l'animazione di base, mentre le altre due sono "nascoste" ed attivate al momento della pressione dei bottoni specifici.  
 
 3 - Risultato ed "easter-egg"
 
