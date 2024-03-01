@@ -10,6 +10,25 @@ body {
     background: linear-gradient(180deg, rgba(99, 154, 182, 1) 0%, rgba(79, 223, 219, 0.8659664549413515) 100%);
 }
 
+/*SmartPhone*/
+@media only screen and (max-width: 435px) {
+    body {
+        margin: 0px;
+    }
+
+    .red, .blue {
+        height: 100px;
+    }
+
+    .nuvoletta {
+        height: 400px;
+
+        img {
+            width: 500px;
+        }
+    }
+}
+
 main {
     display: block;
     justify-content: center;
