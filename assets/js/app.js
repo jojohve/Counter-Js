@@ -1,10 +1,27 @@
 let contatore = 0;
-let buttonPiu = document.getElementById("incrementatore");
-let buttonMeno = document.getElementById("decrementatore");
-let counter = document.getElementById("output");
+//* let buttonPiu = document.getElementById("incrementatore");
+//* let buttonMeno = document.getElementById("decrementatore");
+//* let counter = document.getElementById("output");
 const pecora1 = document.querySelector(".closed")
 const pecora2 = document.querySelector(".open")
 const pecora3 = document.querySelector(".open2")
+
+let buttonMeno = document.createElement("button")
+buttonMeno.innerText = ("-");
+document.getElementById("div").appendChild(buttonMeno)
+buttonMeno.classList.add(`button`)
+buttonMeno.classList.add(`red`)
+
+let counter = document.createElement("label")
+counter.innerText = risultato();
+document.getElementById("div").appendChild(counter)
+counter.classList.add(`output`)
+
+let buttonPiu = document.createElement("button")
+buttonPiu.innerText = ("+");
+document.getElementById("div").appendChild(buttonPiu)
+buttonPiu.classList.add(`button`)
+buttonPiu.classList.add(`blue`)
 
 risultato();
 ciao();
@@ -58,4 +75,4 @@ function warning() {
     if (contatore == -10) {
         alert("La pecora sta perdendo la pazienza, così farai fatica ad addormentarti!");
     }
-  }
+}
