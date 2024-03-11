@@ -9,8 +9,9 @@ Link al progetto: https://jojohve.github.io/Counter-Js/
 
 1 - Preparazione dell'applicazione
 
-Ho iniziato il progetto creando il file HTML contenente i due ".div" principali; il primo contiene tutte le gif presenti per animare il progetto e il secondo invece contiene i bottoni per aumentare e diminuire il counter, con relativa visualizzazione del counter stesso. Il secondo div è stato aggiunto di button e label dinamicamente tramite Javascript.
+Ho iniziato il progetto creando il file HTML contenente i due ".div" principali; il primo contiene tutte le gif presenti per animare il progetto e il secondo invece contiene i bottoni per aumentare e diminuire il counter, con relativa visualizzazione del counter stesso.
 Poi sono passato al file Js dove ho dichiarato tutti gli elementi presenti nel file HTML tramite variabili e costanti, dopo ho proceduto con il funzionamento dei bottoni che restituiscono già il valore modificato presente nella funzione risultato().
+Il secondo div è stato aggiunto di button e label dinamicamente tramite Javascript.
 
 2 - Animazione e styling
 
